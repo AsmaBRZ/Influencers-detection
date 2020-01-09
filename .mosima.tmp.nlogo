@@ -445,7 +445,7 @@ nb-persons
 nb-persons
 0
 100
-6.0
+46.0
 1
 1
 NIL
